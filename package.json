@@ -1,6 +1,6 @@
 {
   "name": "@quire.io/n8n-nodes-quire",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "n8n community node for Quire project management platform integration",
   "keywords": [
     "n8n-community-node-package"
@@ -49,6 +49,6 @@
     "typescript": "^5.8.2"
   },
   "peerDependencies": {
-    "n8n-workflow": "*"
+    "n8n-workflow": "^1.17.0"
   }
 }
